@@ -1,5 +1,6 @@
 # Detecting-Pneumonia Image-Classifier
 This Image Classifier is used to detect bacterial and viral Pneumonia in Patients.Test Accuracy is ***98 %*** . 
+Please visit this Kaggle [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) to gain more insights.
 
 ## Modules Used
 - Keras
