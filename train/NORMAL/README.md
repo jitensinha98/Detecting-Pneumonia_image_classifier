@@ -1,1 +1,1 @@
-##### This folder will contain Pneumonia class images for training network. 
+##### This folder will contain Normal class images for training network. 
