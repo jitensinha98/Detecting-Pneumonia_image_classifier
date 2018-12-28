@@ -3,7 +3,6 @@ import random
 import numpy as np
 import cv2
 import os
-import matplotlib.pyplot as plt
 from tqdm import tqdm
 from keras.layers import Conv2D,Dense,MaxPooling2D,Dropout,Flatten
 from keras.callbacks import ReduceLROnPlateau,EarlyStopping
